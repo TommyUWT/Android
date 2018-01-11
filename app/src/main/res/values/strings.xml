@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">fotos</string>
+    <string name="facebook_app_id">2012258562322232</string>
+    <string name="fb_login_protocol_scheme">fb2012258562322232</string>
+    <string name="albums_label">Albums</string>
+    <string name="no_albums_label">Add some ablums to your profile first.</string>
+    <string name="no_photos_label">This album is empty.</string>
+    <string name="logout_label">Logout</string>
+    <string name="profile_pic_label">Profile Picture</string>
+    <string name="permission_message">Permission is needed to upload a new photo.</string>
+</resources>
